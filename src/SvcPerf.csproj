@@ -48,7 +48,7 @@
     <ApplicationIcon>Viewer\CSD_banner.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>SvcPerfKey.snk</AssemblyOriginatorKeyFile>
